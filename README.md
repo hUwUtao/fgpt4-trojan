@@ -4,7 +4,7 @@
 
 This was a random suspicious file found in the wild
 
-[Alt text](Gallery/ads.png)
+![Alt text](Gallery/ads.png)
 
 It goes to
 [this google drive link](https://drive.google.com/file/d/14RSdol3jKmLsV5QinH-h2Xn6xmsScFVx/view?fbclid=IwAR0XXFpZFQQVtVzAsFCf4WFpxzpIQEaH6y-wKzjIIKCIDuybno26nxfH_0k) by `"Marketing H Digiatal" <bipvailon123@gmail.com>`
