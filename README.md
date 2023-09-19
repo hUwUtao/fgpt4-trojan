@@ -13,7 +13,12 @@ It goes to
 
 The payload is a 2 section in a string, pulled into a variable. Both seperated by `::`, with base64 pattern
 
-The script then copy powershell to its workdir (Get-Content wont work normaly if not). Then it load the string into 2 part, debase64 it, unencrypted it with `AES` and decompress it with `Gzip`. 
+The script then copy powershell to its workdir (Get-Content wont work normaly if not). 
+
+> Reconstructed executable
+> [loader.ps1](https://gist.github.com/hUwUtao/2703b13f91d19a488079dc8bc17bc6fe)
+
+Then it load the string into 2 part, debase64 it, unencrypted it with `AES` and decompress it with `Gzip`. 
 
 ## Binary
 
